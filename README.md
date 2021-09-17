@@ -45,14 +45,51 @@ ubuntu@localhost:/$ cd /nxfilter/
 
 ubuntu@localhost:/nxfilter$ ls
 
-backup  bin  conf  db  guipack  jahaslist  lib  license.txt  log  modified  nxd.ico  nxd.jar  nxwrapper.exe  prunsrv.exe  readme.txt  third-party-license.txt  tmp  tutorial.html  webapps
+backup  
+bin  
+conf  
+db  
+guipack  
+jahaslist  
+lib  
+license.txt  
+log  
+modified  
+nxd.ico  
+nxd.jar  
+nxwrapper.exe  
+prunsrv.exe  
+readme.txt  
+third-party-license.txt  
+tmp  
+tutorial.html  
+webapps
 
 ubuntu@localhost:/nxfilter$ cd bin
 
 ubuntu@localhost:/nxfilter/bin$ ls
 
-admin.bat     cachecon.sh  cleanup.sh   ping.bat  reset-acl.bat  reset-pw.bat  shutdown.bat  startup.bat  tutorial.bat  update_sh.sh  version.sh
-cachecon.bat  cleanup.bat  instsvc.bat  ping.sh   reset-acl.sh   reset-pw.sh   shutdown.sh   startup.sh   unstsvc.bat   version.bat
+admin.bat     
+cachecon.sh  
+cleanup.sh   
+ping.bat  
+reset-acl.bat  
+reset-pw.bat  
+shutdown.bat  
+startup.bat  
+tutorial.bat  
+update_sh.sh  
+version.sh
+cachecon.bat  
+cleanup.bat  
+instsvc.bat  
+ping.sh   
+reset-acl.sh   
+reset-pw.sh  
+shutdown.sh   
+startup.sh   
+unstsvc.bat   
+version.bat
 
 ubuntu@localhost:/nxfilter/bin$ ./startup.bat
 

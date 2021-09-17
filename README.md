@@ -8,11 +8,17 @@ Resolving pub.nxfilter.org (pub.nxfilter.org)... 68.66.205.245
 Connecting to pub.nxfilter.org (pub.nxfilter.org)|68.66.205.245|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 42060896 (40M) [application/octet-stream]
+
+
 Saving to: ‘nxfilter-4.5.2.5.deb’
+
+
 
 nxfilter-4.5.2.5.deb                                           100%[====================================================================================================================================================>]  40.11M  34.7MB/s    in 1.2s
 
+
 2021-09-17 19:51:04 (34.7 MB/s) - ‘nxfilter-4.5.2.5.deb’ saved [42060896/42060896]
+
 
 # Instalação:
 

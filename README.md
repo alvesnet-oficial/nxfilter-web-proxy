@@ -27,7 +27,7 @@ nxfilter-4.5.2.5.deb                                           100%[============
 
 # Instalação:
 
-ubuntu@ip-172-31-56-164:~$ sudo dpkg -i nxfilter-4.5.2.5.deb
+ubuntu@localhost:~$ sudo dpkg -i nxfilter-4.5.2.5.deb
 
 (Reading database ... 520267 files and directories currently installed.)
 

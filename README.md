@@ -93,4 +93,15 @@ version.bat
 
 ubuntu@localhost:/nxfilter/bin$ ./startup.bat
 
+# Ubuntu Linux
+Temos pacotes DEB para instalar o NxFilter no Ubuntu Linux. Para instalá-lo, depois de instalar o Java, baixe o pacote usando 'wget' e instale-o usando 'dpkg'. Em seguida, inicie-o a partir do script Systemd incluído no pacote.
+sudo apt-get install openjdk-8-jre
+wget http://pub.nxfilter.org/nxfilter-4.3.6.1.deb
+sudo dpkg -i nxfilter-4.3.6.1.deb
+sudo systemctl enable nxfilter
+sudo systemctl start nxfilter
+
+# Você pode visualizar o processo de instalação com o seguinte comando.
+tail -f /nxfilter/log/nxfilter.log
+
 
